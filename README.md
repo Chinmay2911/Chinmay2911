@@ -94,11 +94,11 @@ Chinmay Pradhan</a></h1>
 
 <br/>
 
-## GitHub Contributions
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Contributions
 
 ![3d-profile](./profile-3d-contrib/profile-green-animate.svg)
 
 <br/>
 
-## Just for Fun
-    ![Snake-animation](https://github.com/Chinmay2911/Chinmay2911/blob/output/github-contribution-grid-snake.svg)
+## <img src="https://developers.giphy.com/branch/master/static/confetti-0f9eab9b22b390e18bf9b433aedc27c2.gif" width="25" Just for Fun
+![Snake-animation](https://github.com/Chinmay2911/Chinmay2911/blob/output/github-contribution-grid-snake.svg)
