@@ -81,7 +81,9 @@ Chinmay Pradhan</a></h1>
     
 </p>
 
-## Github stats:
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats:
 <div align="center">
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinmay2911&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chinmay's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay2911&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -90,9 +92,13 @@ Chinmay Pradhan</a></h1>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Chinmay2911&theme=buefy&hid)](https://github.com/Chinmay2911)
 </div>
 
+<br/>
+
 ## GitHub Contributions
 
 ![3d-profile](./profile-3d-contrib/profile-green-animate.svg)
+
+<br/>
 
 ## Just for Fun
 ![Snake animation](https://github.com/Chinmay2911/Chinmay2911/blob/output/github-contribution-grid-snake.svg)
