@@ -23,9 +23,12 @@ Chinmay Pradhan</a></h1>
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 
 
+
 <div align="center">
 <h2 align="center">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Chinmay2911&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Chinmay2911)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Chinmay2911&theme=material-palenight)](https://github.com/Chinmay2911)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinmay2911&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chinmay's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay2911&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Chinmay2911&theme=buefy&hid)](https://github.com/Chinmay2911)
 </div>
