@@ -101,4 +101,4 @@ Chinmay Pradhan</a></h1>
 <br/>
 
 ## Just for Fun
-![Snake animation](https://github.com/Chinmay2911/Chinmay2911/blob/output/github-contribution-grid-snake.svg)
+    ![Snake-animation](https://github.com/Chinmay2911/Chinmay2911/blob/output/github-contribution-grid-snake.svg)
