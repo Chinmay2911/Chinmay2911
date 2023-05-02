@@ -95,4 +95,5 @@ Chinmay Pradhan</a></h1>
 
 ![3d-profile](./profile-3d-contrib/profile-green-animate.svg)
 
+## Just for Fun
 ![Snake animation](https://github.com/Chinmay2911/Chinmay2911/blob/output/github-contribution-grid-snake.svg)
