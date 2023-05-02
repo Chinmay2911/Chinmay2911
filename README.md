@@ -81,9 +81,8 @@ Chinmay Pradhan</a></h1>
     
 </p>
 
-
+## Github stats:
 <div align="center">
-<h2 align="center">Github stats:</h2> 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinmay2911&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chinmay's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay2911&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
