@@ -100,5 +100,5 @@ Chinmay Pradhan</a></h1>
 
 <br/>
 
-## <img src="https://developers.giphy.com/branch/master/static/confetti-0f9eab9b22b390e18bf9b433aedc27c2.gif" width="25" Just for Fun
+## <img src="https://developers.giphy.com/branch/master/static/confetti-0f9eab9b22b390e18bf9b433aedc27c2.gif" width="25"> Just for Fun
 ![Snake-animation](https://github.com/Chinmay2911/Chinmay2911/blob/output/github-contribution-grid-snake.svg)
