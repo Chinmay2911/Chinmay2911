@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm <a href="https://chinmay-pradhan.netlify.app" target="blank">
+<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm <a href="https://chinmay2911.github.io/portfolio/" target="blank">
 Chinmay Pradhan</a></h1>
 <p align="center">I am Specialized in <br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&color=0B2531&center=true&vCenter=true&width=370&height=100&lines=Risk+Analysis;Data+Visualization;Data+Analysis;Business+Analytics;IT+Audit" alt="Typing SVG" /></a>
