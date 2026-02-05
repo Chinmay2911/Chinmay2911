@@ -1,24 +1,24 @@
 <h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm <a href="https://chinmay-pradhan.netlify.app" target="blank">
 Chinmay Pradhan</a></h1>
 <p align="center">I am Specialized in <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&color=0B2531&center=true&vCenter=true&width=370&height=100&lines=Data+Visualization;Data+Analysis;Business+Analytics" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&color=0B2531&center=true&vCenter=true&width=370&height=100&lines=Risk+Analysis;Data+Visualization;Data+Analysis;Business+Analytics;IT+Audit" alt="Typing SVG" /></a>
 </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as Metaverse Executive
+- 🔭 Current Status: Actively seeking **Data Analyst or Business Intelligence** roles within the Canadian market
 
-- 🌱 I’m currently Working on Web3 Spaces and Analytics 
+- 🎓 Education: Master of Science in Big Data Analytics from Trent University (GPA 4.0). 
 
-- 🤝 I’m available for freelancing.
+- 📊 Core Impact: Proven track record of delivering 35% operational efficiency improvements and identifying $300K+ in revenue opportunities.
 
-- 💬 Ask me about **Data Visualtization & REACT**
+- 💬 Ask me about **SQL, Python, Power BI, and Tableau**
 
 - 📫 How to reach me **chinmay29pradhan@gmail.com**
 
-- 📄 Visit my <a href="https://chinmay-pradhan.netlify.app/" target="blank">Portfolio</a>
+- 📄 Visit my <a href="https://chinmay2911.github.io/portfolio/" target="blank">Portfolio</a>
 
 <br/>
 
@@ -81,14 +81,8 @@ Chinmay Pradhan</a></h1>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats:
-<div align="center">
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinmay2911&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chinmay's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay2911&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Chinmay2911&theme=buefy&hid)](https://github.com/Chinmay2911)
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Chinmay2911&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 <br/>
 
@@ -98,5 +92,6 @@ Chinmay Pradhan</a></h1>
 
 <br/>
 
-## <img src="https://developers.giphy.com/branch/master/static/confetti-0f9eab9b22b390e18bf9b433aedc27c2.gif" width="25"> Just for Fun
-![Snake-animation](https://github.com/Chinmay2911/Chinmay2911/blob/output/github-contribution-grid-snake.svg)
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
